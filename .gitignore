@@ -1,0 +1,5 @@
+# Jangan pernah commit file ini
+.env
+node_modules/
+*.log
+.DS_Store

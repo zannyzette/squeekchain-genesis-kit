@@ -1,0 +1,19 @@
+{
+  "name": "squeekchain-genesis-kit",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Tutorial + script open-source untuk join Genesis Squeekchain dan claim NFT test Squeeks di Sepolia",
+  "license": "MIT",
+  "scripts": {
+    "check": "node scripts/claim.mjs --check",
+    "claim": "node scripts/claim.mjs --claim"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
