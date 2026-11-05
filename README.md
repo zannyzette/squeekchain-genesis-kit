@@ -35,7 +35,7 @@ Kenapa ikut sekarang: Genesis adalah daftar awal (early member). Semakin awal ma
 Buka link referral ini **sebelum** connect apa pun:
 
 ```
-https://squeekchain.com/genesis/dpz2gpwb
+https://squeekchain.com/genesis/i/dpz2gpwb
 ```
 
 Urutannya:
@@ -153,7 +153,7 @@ Yang bisa kamu lakuin:
 ## FAQ & troubleshooting
 
 **"This wallet isn't in Genesis yet"**
-Wallet yang kamu connect belum ke-link ke akun Genesis. Login pakai X dulu di `https://squeekchain.com/genesis/dpz2gpwb`, lalu connect wallet dari situ.
+Wallet yang kamu connect belum ke-link ke akun Genesis. Login pakai X dulu di `https://squeekchain.com/genesis/i/dpz2gpwb`, lalu connect wallet dari situ.
 
 **"None of your wallets can receive on Sepolia"**
 Wallet kamu belum di-set sebagai mint wallet, atau wallet-nya belum ada di jaringan Sepolia. Tambahin Sepolia di wallet, lalu set mint wallet di halaman profil.
